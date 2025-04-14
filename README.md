@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lamyea-salma016
-- 👀 I’m interested in Coding , Codeing
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Open Source Project
 - ⚡ Fun fact: I love cooking 
