@@ -1,63 +1,70 @@
-<h1 align="center">Hi 👋, I'm Umme Salma Lamyea</h1>
-<h3 align="center">🎨 Aspiring UI/UX Designer | Passionate about Human-Centered Design</h3>
+<h1 align="center">🌸 Hi there, I'm <span style="color:#f48fb1;">Umme Salma Lamyea</span> 🌸</h1>
+<h3 align="center">💖 Aspiring UI/UX Designer | Dreaming in Pixels</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=umme-lamyea&label=Profile%20views&color=0e75b6&style=flat" alt="umme-lamyea" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=umme-lamyea&theme=gruvbox&margin-w=10&margin-h=10&no-bg=true" alt="umme-lamyea" />
-  </a>
-</p>
-
-- 🌱 I’m currently learning **User Interface Design, User Experience Research, Figma, Adobe XD**
-
-- 🧠 Exploring more about **Design Systems, Prototyping & Front-End Collaboration**
-
-- 📫 How to reach me: **umme.lamyea@gmail.com**
-
-- 💬 Ask me about **UI/UX Design, Wireframing, or anything creative!**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/umme-lamyea/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umme-lamyea" height="30" width="40" />
-  </a>
-  <a href="https://dribbble.com/umme-lamyea" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="umme-lamyea" height="30" width="40" />
-  </a>
-  <a href="https://www.behance.net/umme-lamyea" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="umme-lamyea" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Designing+beautiful+experiences...;Lover+of+minimalism+and+pastels;Let's+design+something+magical+✨" />
 </p>
 
 ---
 
-<h3 align="left">Design & Collaboration Tools:</h3>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe-xd" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40" />
-  </a>
-  <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40" />
-  </a>
+### 🧚‍♀️ About Me
+- 🎓 I'm a **UI/UX Design Enthusiast**
+- 🖌 Currently learning **Figma, Adobe XD, UX Research**
+- 💬 Ask me about **Wireframes, Color Palettes, Typography**
+- 🌱 Dreaming to create impactful, user-centered designs
+- 📬 Reach me at: **umme.lamyea@gmail.com**
+
+---
+
+### 💞 Connect with Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/umme-lamyea/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dribbble.com/umme-lamyea" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+  <a href="https://www.behance.net/umme-lamyea" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=umme-lamyea&show_icons=true&locale=en" alt="umme-lamyea" /></p>
+### 🎨 Tools & Skills
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umme-lamyea&show_icons=true&locale=en&layout=compact" alt="umme-lamyea" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+---
+
+### 🐾 GitHub Activities & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umme-lamyea&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffc0cb&icon_color=ffb6c1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umme-lamyea&layout=compact&theme=rose_pine&hide_border=true&title_color=ffc0cb" />
+</p>
+
+---
+
+### 🌼 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=umme-lamyea&bg_color=ffffff&color=ec4899&line=f9a8d4&point=fda4af&area=true&hide_border=true" />
+</p>
+
+---
+
+### ⏰ Latest GitHub Activity
+
+> _(Auto-updating – shows your latest push, issue, pull request, etc.)_
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umme-lamyea&theme=pink&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  💌 Made with love and pastel magic ✨ by <strong>Umme Salma Lamyea</strong>
+</p>
