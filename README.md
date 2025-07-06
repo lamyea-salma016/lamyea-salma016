@@ -2,7 +2,7 @@
 <h3 align="center">💖 Aspiring UI/UX Designer | Dreaming in Pixels</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Designing+beautiful+experiences...;Lover+of+minimalism+and+pastels;Let's+design+something+magical+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=_Designing+beautiful+experiences...;Lover+of+minimalism+and+pastels;Let's+design+something+magical+✨" />
 </p>
 
 ---
